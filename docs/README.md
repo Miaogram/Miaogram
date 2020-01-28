@@ -1,7 +1,8 @@
 <div align="right">Language: <a title="Chinese" href="https://miaogram.github.io/Miaogram/zh-cn.html">Chinese</a> | English </div>
 <link rel="icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
-<div align=center><img src ="https://image.gslb.dawnlab.me/7b8f4d8d99e1f105db4f0bfdf4bcd053.png"/></div>
+<div align="center"><img src ="https://image.gslb.dawnlab.me/7b8f4d8d99e1f105db4f0bfdf4bcd053.png"/></div>
+
 <h1 align="center"><a href="https://miaogram.github.io/Miaogram/" target="_blank">Miaogram</a></h1>
 
 > Miaogram is an unofficial client for Android who uses the Telegram's API, fork of the official Telegram Android client.

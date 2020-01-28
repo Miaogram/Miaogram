@@ -1,7 +1,7 @@
 <div align="right">Language: Chinese | <a title="Chinese" href="https://miaogram.github.io/Miaogram">English</a></div>
 <link rel="icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
-<div align=center><img src ="https://image.gslb.dawnlab.me/7b8f4d8d99e1f105db4f0bfdf4bcd053.png"/></div>
+<div align="center"><img src ="https://image.gslb.dawnlab.me/7b8f4d8d99e1f105db4f0bfdf4bcd053.png"/></div>
 
 <h1 align="center"><a href="https://miaogram.github.io/Miaogram/" target="_blank">Miaogram</a></h1>
 
