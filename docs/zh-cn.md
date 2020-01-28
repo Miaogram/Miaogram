@@ -1,7 +1,8 @@
 <div align="right">Language: Chinese | <a title="Chinese" href="https://miaogram.github.io/Miaogram">English</a></div>
 <link rel="icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
-![Miaogram.png](https://image.gslb.dawnlab.me/7b8f4d8d99e1f105db4f0bfdf4bcd053.png)
+<div align=center><img src ="https://image.gslb.dawnlab.me/7b8f4d8d99e1f105db4f0bfdf4bcd053.png"/></div>
+
 <h1 align="center"><a href="https://miaogram.github.io/Miaogram/" target="_blank">Miaogram</a></h1>
 
 > Miaogram 是 Android 上的非官方 Telegram 客户端，该客户端使用 Telegram 的API，这是官方 Telegram Android 客户端的分支。
