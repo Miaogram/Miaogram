@@ -32,7 +32,7 @@ The default language of this document is English. At present, the Chinese transl
 📝 [Code on GitHub](https://github.com/Miaogram/Miaogram/)
 🐛 [New issue](https://github.com/Miaogram/Miaogram/issues)
 🐛 [New issue on Telegram](https://github.com/Miaogram/Miaogram/issues)
-🚩 [Official support group (Chinese/English)]()
+🚩 [Official support group (Chinese/English)](https://miaocn.wodemo.net/joingram)
 
 ## Features📡
 
