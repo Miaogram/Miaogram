@@ -1,6 +1,7 @@
 <div align="right">Language: Chinese | <a title="Chinese" href="https://miaogram.github.io/Miaogram">English</a></div>
 <link rel="icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
+
 <div align="center"><img src ="https://image.gslb.dawnlab.me/7b8f4d8d99e1f105db4f0bfdf4bcd053.png"/></div>
 
 <h1 align="center"><a href="https://miaogram.github.io/Miaogram/" target="_blank">Miaogram</a></h1>
@@ -38,7 +39,7 @@
 
 🐛 [在 Telegram 上提问](https://github.com/Miaogram/Miaogram/issues)
 
-🚩 [官方群组]()
+🚩 [官方群组](https://miaocn.wodemo.net/joingram)
 
 ## 特性📡
 
@@ -50,7 +51,7 @@
 
 ## 更新内容🔌
 
-- View update logs at https://telegram.org/blog/polls-2-0-vmq
+- View update logs at [https://telegram.org/blog/polls-2-0-vmq](https://telegram.org/blog/polls-2-0-vmq)
 - Minor improvements
 
 ## 未来的新功能
